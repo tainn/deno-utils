@@ -2,9 +2,8 @@
   "name": "@tainn/deno-utils",
   "version": "0.1.0",
   "description": "Collection of utilities for Deno.",
-  "exports": {
-    ".": "./src/mod.ts"
-  },
+  "license": "MIT",
+  "exports": "./src/mod.ts",
   "imports": {},
   "tasks": {
     "0": "deno lint --fix src && deno fmt src && deno check src"
