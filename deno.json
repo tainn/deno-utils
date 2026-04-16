@@ -1,6 +1,7 @@
 {
   "name": "@tainn/deno-utils",
   "version": "0.1.0",
+  "description": "Collection of utilities for Deno.",
   "exports": {
     ".": "./src/mod.ts"
   },

@@ -1,3 +1,3 @@
 # deno-utils
 
-Utilities for `deno`.
+Collection of utilities for `deno`.
