@@ -1,6 +1,6 @@
 {
   "name": "@tainn/deno-utils",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Collection of utilities for Deno.",
   "license": "MIT",
   "exports": "./src/mod.ts",
